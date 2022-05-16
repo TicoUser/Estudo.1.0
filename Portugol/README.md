@@ -1,3 +1,3 @@
-# Estudo 1.0
+# Portugol:
 
-## Portugol:
+### Exercícios de Portugol:
