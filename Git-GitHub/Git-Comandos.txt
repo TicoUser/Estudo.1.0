@@ -1,0 +1,18 @@
+## Git Comandos:
+
+- git init ( Iniciar pasta .git)
+- git commit ( comitar alterações no GITHUB)
+- git status ( relatar se houve alterações na pasta)
+- git add . or git add -a (Incluir todas alterações para o stage) 
+- git add <file> (Incluir arquivo para o stage)
+- git clone (clonar repositório para o PC)
+- git push origin main ( empurrar arquivos ao GITHUB)
+- git pull ( puxar arquivos do GITHUB)
+
+- dir ( ver pastas no diretório atual)
+- cd <file> ( trocar diretório)
+- cd .. ( voltar a pasta anterior)
+- mkdir ( criar pasta)
+- rmdir ( excluir pasta)
+- del ( deletar arquivos numa pasta)
+- ls -a ( listar arquivos ocultos)
